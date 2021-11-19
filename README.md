@@ -9,6 +9,7 @@ let use now run through the steps of using this script /
 
 first we need to make the script executable so go ahead and run the following/
 > chmod +x run_this_to_deploy.sh
+> ( x will be small letter not caps)
 
 followed by:/
 >./run_this_to_deploy.sh
