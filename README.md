@@ -17,3 +17,5 @@ followed by:/
 **IMPORTANT: DO NOT run the script as root because it will do everything in the root directory instead of the users home foleder so keep in mind.**/
 
 if you have any issues in mind regarding this project feel free to report it in the issues tab!/
+
+**this script seems to work very well with arco linux, so arco linux is a must**
