@@ -1,0 +1,11 @@
+# package information
+
+xorg - display server used to render graphics and run a GUI server
+
+base-devel - dev packages needed to compile and install dwm
+
+git - used to clone repository containing dwm st alongwith dmenu
+
+firefox - a web browser used by millions of people around the world
+
+pcmanfm - x11 file manager with advance capablities

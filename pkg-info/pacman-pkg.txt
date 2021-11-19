@@ -1,0 +1,6 @@
+xorg 
+git 
+base-devel
+pcmanfm
+firefox
+openbox 
