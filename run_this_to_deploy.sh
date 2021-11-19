@@ -17,9 +17,9 @@ chmod +x *
 
 ./config-fontawesome.sh
 
-./config-dwm
+./config-dmenu
 
-./config-st
+./config-st.sh
 
 figlet "finished"
 
