@@ -5,7 +5,7 @@ sudo pacman -S figlet
 
 figlet "LUDS"
 
-pacman -S - < ~/LUDS/pkg-info/pacman-pkg.txt
+sudo pacman -S - < ~/LUDS/pkg-info/pacman-pkg.txt
 
 figlet "getting stuff"
 
