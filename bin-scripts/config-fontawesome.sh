@@ -4,4 +4,4 @@ cd ~/LUDS/font-configs/otfs
 
 sudo cp *.otf  /usr/share/fonts/OTF
 
-fc-cache -fv
+sudo fc-cache -fv
